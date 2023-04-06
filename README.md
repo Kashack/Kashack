@@ -33,7 +33,7 @@ In the fast-paced and constantly evolving world of mobile technology, I'm commit
 
 ## Rapidfire  
 
-- 🌱 I’m currently use Flutter for mobile application development  
+- 🌱 I’m currently using Flutter for mobile application development  
   
 
 - ❓ Ask me about anything related to mobile application development  
